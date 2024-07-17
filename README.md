@@ -1,4 +1,4 @@
-# Difference-between-Classfiaction-and-Regression
+# Difference Between Classfiaction and Regression
 In machine learning, regression and classification are two types of supervised learning tasks. Here’s a breakdown of their differences:
 
 ### Regression
